@@ -1,0 +1,20 @@
+{
+    "audios": [
+        {
+            "id": 1,
+            "audioURL": "/audios/audio1.mp3"
+        },
+        {
+            "id": 2,
+            "audioURL": "/audios/audio2.mp3"
+        },
+        {
+            "id": 3,
+            "audioURL": "/audios/audio3.mp3"
+        },
+        {
+            "id": 4,
+            "audioURL": "/audios/audio4.mp3"
+        }
+    ]
+}
